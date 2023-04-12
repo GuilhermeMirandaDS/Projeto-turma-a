@@ -7,9 +7,13 @@
 ## Dados Pessoais:
 
 CPF: XXXXXXXXX
+
 RG : XXXXXXXXXXXX
+
 Telefone: XX XXXXXXXXX
+
 E-mail: XXXXXXXXXXXXXXXXXXX
+
 
 ---
 
